@@ -1,4 +1,8 @@
 # ALTIUM-designer
+# ARDUINO UNO REV3 BOARD
+![WhatsApp Image 2024-08-11 at 18 32 35_98d1ad2e](https://github.com/user-attachments/assets/eaa79ea3-0e97-4efe-98ba-c604d2a24d66)
+![WhatsApp Image 2024-08-11 at 18 32 35_f4981d29](https://github.com/user-attachments/assets/c9774315-3d07-43bd-9b4f-aca500c335b3)
+![WhatsApp Image 2024-08-11 at 18 33 54_9c966b9d](https://github.com/user-attachments/assets/d2e1629d-aaea-4ba0-bed8-57e346e56ac3)
 
 # IR sensor 
 ![WhatsApp Image 2024-06-10 at 19 28 47_b14b1a6c](https://github.com/mohamed9salah/ALTIUM-designer/assets/138705468/ed48218f-8f5f-45fa-ab7d-73607d4cae8a) ![WhatsApp Image 2024-06-10 at 19 28 45_9e34355a](https://github.com/mohamed9salah/ALTIUM-designer/assets/138705468/e1920abd-02f4-4392-923f-ca221d5595f0)
