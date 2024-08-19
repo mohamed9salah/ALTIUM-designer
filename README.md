@@ -10,7 +10,7 @@
 # Relay module
 ![WhatsApp Image 2024-06-10 at 19 39 01_58e49a80](https://github.com/mohamed9salah/ALTIUM-designer/assets/138705468/e38f59fc-e895-409b-a2ac-ed47a97011b1) ![WhatsApp Image 2024-06-10 at 19 39 03_e1e18f16](https://github.com/mohamed9salah/ALTIUM-designer/assets/138705468/17ac2b87-7859-4267-9842-3448c294cc93) ![WhatsApp Image 2024-06-10 at 19 39 03_d2017f66](https://github.com/mohamed9salah/ALTIUM-designer/assets/138705468/daf57618-531a-4513-b5cf-8ffebca65a4d)
 
-# Multivibrator circuit(FlipFlip)
+# Multivibrator circuit(FlipFlop)
 ![WhatsApp Image 2024-06-10 at 19 46 25_111317e2](https://github.com/mohamed9salah/ALTIUM-designer/assets/138705468/b6f25f44-3ee4-4b6f-806a-3bf355925475) ![WhatsApp Image 2024-06-10 at 19 46 25_0520ac66](https://github.com/mohamed9salah/ALTIUM-designer/assets/138705468/e2329ae9-e3f9-4f9f-9a07-f85d46519e5f) ![WhatsApp Image 2024-06-10 at 19 46 24_390a0954](https://github.com/mohamed9salah/ALTIUM-designer/assets/138705468/5c10ccdf-0442-487c-b0e2-07b48d26aa02)
 
 # Battery level indicator PCB
