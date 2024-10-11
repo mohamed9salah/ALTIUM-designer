@@ -1,4 +1,20 @@
 # ALTIUM-designer
+# ESP32 
+![WhatsApp Image 2024-10-11 at 23 48 57_67ee8772](https://github.com/user-attachments/assets/f87106eb-675d-45de-a6d2-881c4c801aea)
+![WhatsApp Image 2024-10-11 at 23 49 19_48c5377c](https://github.com/user-attachments/assets/102d9f6b-d832-4a86-a24a-2f09fbb60488)
+![WhatsApp Image 2024-10-11 at 23 49 31_5dacf931](https://github.com/user-attachments/assets/e8a9837c-1e45-40de-88c1-ea744e4ab361)
+![WhatsApp Image 2024-10-11 at 23 49 32_1975c650](https://github.com/user-attachments/assets/2e3bbd0b-d7b8-4699-b00f-f3d3d0c3f878)
+![WhatsApp Image 2024-10-11 at 23 49 39_e220e7c3](https://github.com/user-attachments/assets/6f892bf8-930f-4892-9f29-84b6d09edc55)
+
+# RASPI 2040 minimal design
+![WhatsApp Image 2024-10-11 at 23 50 07_837c2323](https://github.com/user-attachments/assets/d59f5a8e-b2b6-4623-9400-51780ca1cfe0)
+![WhatsApp Image 2024-10-11 at 23 50 06_71637960](https://github.com/user-attachments/assets/78695b52-7224-4b45-b4ca-d5ea7363709e)
+![WhatsApp Image 2024-10-11 at 23 50 06_50ba3d7a](https://github.com/user-attachments/assets/cbdb4b0f-7450-42bc-a370-5d4dc5a28abd)
+![WhatsApp Image 2024-10-11 at 23 50 06_57e7a6ee](https://github.com/user-attachments/assets/1449d412-2b9d-422e-807d-b0c06f73d56c)
+![WhatsApp Image 2024-10-11 at 23 50 06_d4155078](https://github.com/user-attachments/assets/4c4b7e6d-3a0d-4aac-a758-7d0d36e0a474)
+![WhatsApp Image 2024-10-11 at 23 50 07_d97329db](https://github.com/user-attachments/assets/4c2fc910-2744-4c9c-9fce-013a3c5d8fe7)
+![WhatsApp Image 2024-10-11 at 23 50 07_6396c9de](https://github.com/user-attachments/assets/ec61dadb-b7b7-4f48-8ba1-ab14a86a0c97)
+
 # ARDUINO UNO REV3 BOARD
 ![WhatsApp Image 2024-08-11 at 18 32 35_98d1ad2e](https://github.com/user-attachments/assets/eaa79ea3-0e97-4efe-98ba-c604d2a24d66)
 ![WhatsApp Image 2024-08-11 at 18 32 35_f4981d29](https://github.com/user-attachments/assets/c9774315-3d07-43bd-9b4f-aca500c335b3)
